@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj": {}
+    "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj": {
+    "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj",
+        "projectUniqueName": "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj",
         "projectName": "UI.Utility.ImageViewer",
-        "projectPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj",
+        "projectPath": "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj",
         "packagesPath": "C:\\Users\\Hade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.ImageViewer\\obj\\",
+        "outputPath": "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.ImageViewer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

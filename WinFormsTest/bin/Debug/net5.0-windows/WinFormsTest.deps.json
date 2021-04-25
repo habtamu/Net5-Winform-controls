@@ -8,11 +8,17 @@
     ".NETCoreApp,Version=v5.0": {
       "WinFormsTest/1.0.0": {
         "dependencies": {
+          "CalendarLib": "1.0.0",
           "UI.Utility.ImageViewer": "1.0.0",
           "UI.Utility.RichTextBox": "1.0.0"
         },
         "runtime": {
           "WinFormsTest.dll": {}
+        }
+      },
+      "CalendarLib/1.0.0": {
+        "runtime": {
+          "CalendarLib.dll": {}
         }
       },
       "UI.Utility.ImageViewer/1.0.0": {
@@ -29,6 +35,11 @@
   },
   "libraries": {
     "WinFormsTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalendarLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

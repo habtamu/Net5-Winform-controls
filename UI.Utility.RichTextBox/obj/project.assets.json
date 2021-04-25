@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.RichTextBox\\UI.Utility.RichTextBox.csproj",
+      "projectUniqueName": "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.RichTextBox\\UI.Utility.RichTextBox.csproj",
       "projectName": "UI.Utility.RichTextBox",
-      "projectPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.RichTextBox\\UI.Utility.RichTextBox.csproj",
+      "projectPath": "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.RichTextBox\\UI.Utility.RichTextBox.csproj",
       "packagesPath": "C:\\Users\\Hade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.RichTextBox\\obj\\",
+      "outputPath": "C:\\Users\\Hade\\Google Drive\\Github\\WinFormsControl\\UI.Utility.RichTextBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

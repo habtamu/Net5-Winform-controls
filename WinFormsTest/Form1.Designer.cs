@@ -30,22 +30,31 @@ namespace WinFormsTest
         private void InitializeComponent()
         {
             this.imageViewer1 = new UI.Utility.ImageViewer.ImageViewer();
+            this.dateTimePickerEx1 = new CalendarLib.DateTimePickerEx();
             this.SuspendLayout();
             // 
             // imageViewer1
             // 
-            this.imageViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.imageViewer1.Dock = System.Windows.Forms.DockStyle.Top;
             this.imageViewer1.Location = new System.Drawing.Point(0, 0);
             this.imageViewer1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.imageViewer1.Name = "imageViewer1";
-            this.imageViewer1.Size = new System.Drawing.Size(800, 450);
+            this.imageViewer1.Size = new System.Drawing.Size(800, 155);
             this.imageViewer1.TabIndex = 0;
+            // 
+            // dateTimePickerEx1
+            // 
+            this.dateTimePickerEx1.Location = new System.Drawing.Point(53, 162);
+            this.dateTimePickerEx1.Name = "dateTimePickerEx1";
+            this.dateTimePickerEx1.Size = new System.Drawing.Size(150, 20);
+            this.dateTimePickerEx1.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 209);
+            this.Controls.Add(this.dateTimePickerEx1);
             this.Controls.Add(this.imageViewer1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -56,6 +65,7 @@ namespace WinFormsTest
         #endregion
 
         private UI.Utility.ImageViewer.ImageViewer imageViewer1;
+        private CalendarLib.DateTimePickerEx dateTimePickerEx1;
     }
 }
 
