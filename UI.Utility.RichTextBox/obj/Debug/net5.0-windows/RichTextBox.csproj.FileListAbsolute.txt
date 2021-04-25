@@ -1,0 +1,28 @@
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\bin\Debug\net5.0-windows\RichTextBox.deps.json
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\bin\Debug\net5.0-windows\RichTextBox.dll
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\bin\Debug\net5.0-windows\ref\RichTextBox.dll
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\bin\Debug\net5.0-windows\RichTextBox.pdb
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.Properties.Resources.resources
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.RTFEditor.resources
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.csproj.GenerateResource.cache
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.AssemblyInfoInputs.cache
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.AssemblyInfo.cs
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.csproj.CoreCompileInputs.cache
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.dll
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\ref\RichTextBox.dll
+C:\AsposeWordsDemo\Workaholic.RTFEditor\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.pdb
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\bin\Debug\net5.0-windows\RichTextBox.deps.json
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\bin\Debug\net5.0-windows\RichTextBox.dll
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\bin\Debug\net5.0-windows\ref\RichTextBox.dll
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\bin\Debug\net5.0-windows\RichTextBox.pdb
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.Properties.Resources.resources
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.RTFEditor.resources
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.csproj.GenerateResource.cache
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.AssemblyInfoInputs.cache
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.AssemblyInfo.cs
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.dll
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\ref\RichTextBox.dll
+C:\Users\Hade\Google Drive\Github\Controls\RichTextBox\obj\Debug\net5.0-windows\RichTextBox.pdb

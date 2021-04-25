@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "UI.Utility.ImageViewer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/UI.Utility.ImageViewer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI.Utility.ImageViewer.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "UI.Utility.RichTextBox/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/UI.Utility.RichTextBox.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI.Utility.RichTextBox.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "UI.Utility.ImageViewer/1.0.0": {
+      "type": "project",
+      "path": "../UI.Utility.ImageViewer/UI.Utility.ImageViewer.csproj",
+      "msbuildProject": "../UI.Utility.ImageViewer/UI.Utility.ImageViewer.csproj"
+    },
+    "UI.Utility.RichTextBox/1.0.0": {
+      "type": "project",
+      "path": "../UI.Utility.RichTextBox/UI.Utility.RichTextBox.csproj",
+      "msbuildProject": "../UI.Utility.RichTextBox/UI.Utility.RichTextBox.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "UI.Utility.ImageViewer >= 1.0.0",
+      "UI.Utility.RichTextBox >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hade\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\WinFormsTest\\WinFormsTest.csproj",
+      "projectName": "WinFormsTest",
+      "projectPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\WinFormsTest\\WinFormsTest.csproj",
+      "packagesPath": "C:\\Users\\Hade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\WinFormsTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Hade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj": {
+              "projectPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.ImageViewer\\UI.Utility.ImageViewer.csproj"
+            },
+            "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.RichTextBox\\UI.Utility.RichTextBox.csproj": {
+              "projectPath": "C:\\Users\\Hade\\Google Drive\\Github\\Controls\\WinFormsControl\\UI.Utility.RichTextBox\\UI.Utility.RichTextBox.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

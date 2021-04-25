@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsTest/1.0.0": {
+        "dependencies": {
+          "UI.Utility.ImageViewer": "1.0.0",
+          "UI.Utility.RichTextBox": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsTest.dll": {}
+        }
+      },
+      "UI.Utility.ImageViewer/1.0.0": {
+        "runtime": {
+          "UI.Utility.ImageViewer.dll": {}
+        }
+      },
+      "UI.Utility.RichTextBox/1.0.0": {
+        "runtime": {
+          "UI.Utility.RichTextBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UI.Utility.ImageViewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UI.Utility.RichTextBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UI.Utility.ImageViewer\UI.Utility.ImageViewer.csproj" />
+    <ProjectReference Include="..\UI.Utility.RichTextBox\UI.Utility.RichTextBox.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="flag.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
