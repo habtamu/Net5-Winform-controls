@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using UI.Utility.ImageViewer;
 
 namespace WinFormsTest
 {
@@ -16,9 +15,6 @@ namespace WinFormsTest
         public Form1()
         {
             InitializeComponent();
-            Image image = Image.FromFile("flag.png");
-            imageViewer1.SetSource(new ImageArray(new[] { image }));
         }
-
     }
 }

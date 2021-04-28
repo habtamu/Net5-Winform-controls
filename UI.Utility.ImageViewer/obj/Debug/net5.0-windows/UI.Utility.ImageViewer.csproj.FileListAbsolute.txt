@@ -40,3 +40,4 @@ C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.ImageViewer\obj\Deb
 C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.ImageViewer\obj\Debug\net5.0-windows\UI.Utility.ImageViewer.dll
 C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.ImageViewer\obj\Debug\net5.0-windows\ref\UI.Utility.ImageViewer.dll
 C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.ImageViewer\obj\Debug\net5.0-windows\UI.Utility.ImageViewer.pdb
+C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.ImageViewer\obj\Debug\net5.0-windows\UI.Utility.ImageViewer.csprojAssemblyReference.cache

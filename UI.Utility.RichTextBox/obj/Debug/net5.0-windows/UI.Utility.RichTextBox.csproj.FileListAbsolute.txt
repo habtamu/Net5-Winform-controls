@@ -27,3 +27,4 @@ C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.RichTextBox\obj\Deb
 C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.RichTextBox\obj\Debug\net5.0-windows\UI.Utility.RichTextBox.dll
 C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.RichTextBox\obj\Debug\net5.0-windows\ref\UI.Utility.RichTextBox.dll
 C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.RichTextBox\obj\Debug\net5.0-windows\UI.Utility.RichTextBox.pdb
+C:\Users\Hade\Google Drive\Github\WinFormsControl\UI.Utility.RichTextBox\obj\Debug\net5.0-windows\UI.Utility.RichTextBox.csprojAssemblyReference.cache
